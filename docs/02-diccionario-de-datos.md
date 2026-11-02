@@ -70,7 +70,7 @@ Cada trabajo encargado al estudio. Vincula a las demás entidades.
 | id_personal | Integer (FK) | Integrante responsable del trabajo. Referencia a PERSONAL |
 | tipo_trabajo | String | Mensura, subdivisión, plano de obra, trámite, etc. |
 | fecha_inicio | Date | Fecha de comienzo del trabajo |
-| estado | String | En curso, presentado, aprobado o finalizado |
+| estado | String | En curso, presentado, observado, aprobado o finalizado |
 | honorarios | Decimal | Monto total acordado por el trabajo |
 | anticipo | Decimal | Monto cobrado al aceptar el presupuesto |
 | anticipo_cobrado | Boolean | Indica si el anticipo ya fue recibido |
