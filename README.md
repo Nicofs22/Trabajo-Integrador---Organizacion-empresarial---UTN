@@ -14,3 +14,7 @@ El repositorio aloja la documentación técnica del proyecto: estructura organiz
 
 Nicolás Sancholuz
 
+# Declaración de uso de IA
+
+En este trabajo se utilizó la asistencia de IA (Chat GPT, Claude) al realizar las figuras presentadas, se le entregó la información correspondiente que está en display y pidió la elaboración del modelo o figura que la contiene. En cada caso el resultado final fue controlado y modificado por mi persona. Además, se le pidió el control de la redacción final del texto, incorporando sugerencias en el orden y prolijidad.
+El trabajo final presentado es de mi autoría y corre bajo mi responsabilidad.
